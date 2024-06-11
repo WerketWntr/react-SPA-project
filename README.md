@@ -1,3 +1,5 @@
+<b>in progress</b>
+
 <ul>
 <li>Clone the project</li>
 <li>Navigate to the project's root directory using terminal</li>

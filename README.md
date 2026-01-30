@@ -1,4 +1,4 @@
-<b>in progress</b>
+
 
 <ul>
 <li>Clone the project</li>

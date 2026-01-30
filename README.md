@@ -11,7 +11,4 @@
 <li>Start vite server - npm run dev</li>
 <li>Start Artisan server - php artisan serve</li>
 </ul>
-<ul>
-<li>email => test@example.com,
-<li>password  - 123.123A,
-</ul>
+
